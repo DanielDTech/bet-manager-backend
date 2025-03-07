@@ -1,0 +1,15 @@
+{
+  "bankroll": 200.00,
+  "threadLossCount": 0,
+  "profitLoss": 0,
+  "threads": [
+    {
+      "id": 1,
+      "initialBankroll": 200.00,
+      "bets": [
+      ]
+    }
+  ],
+  "history": [],
+  "id": 1
+}
